@@ -296,23 +296,6 @@ These are proposed directions, not features claimed as completed in the current 
 
 The team acknowledges TCET for providing the infrastructure and support required for the project.
 
-## Research manuscript
-
-The project is documented in the manuscript:
-
-*“SCORVEN: A UAV-Based Edge Computing Framework for Crowd Head Detection and Emergency Navigation.”*
-
-The manuscript describes the model training, SCUT-HEAD evaluation, Raspberry Pi 5 performance measurements and proof-of-concept UAV integration. Use the final, approved publication details when citing or linking the paper; do not treat placeholder journal or DOI metadata in a draft as a published citation.
-
-## References
-
-1. L. Wen, D. Du, P. Zhu, Q. Hu, Q. Wang, L. Bo, and S. Lyu, “Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark,” *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021, pp. 7812–7821.
-2. Y. Li, X. Zhang, and D. Chen, “CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes,” *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018, pp. 1091–1100.
-3. Ultralytics, *YOLOv8 Documentation*. https://docs.ultralytics.com/
-4. SCUT-HEAD, public human-head detection benchmark. Refer to the dataset's official distribution page and licence before use.
-
----
-
 <div align="center">
 
 **SCORVEN — Exploring aerial computer vision for safer, better-informed crowd monitoring.**
