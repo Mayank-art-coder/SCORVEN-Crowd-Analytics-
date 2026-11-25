@@ -22,8 +22,6 @@ SCORVEN explores how unmanned aerial vehicles (UAVs) and computer vision can sup
 
 The project also investigates system-level feasibility by integrating the detection pipeline with a UAV platform built around a **Raspberry Pi 5**, an **Arducam 64 MP camera**, **TF-LUNA LiDAR**, and **ArduPilot-based flight control**. The onboard experiments measure inference latency and resource usage at two input resolutions. Software-In-The-Loop (SITL) simulation was used separately to examine the flight-control and system-integration workflow.
 
-> **Scope clarification:** SCORVEN is a research prototype and proof of concept. The reported onboard frame rates are below real-time video rates. The work does not claim validated real-world autonomous crowd surveillance, operational stampede prediction, or production-ready emergency navigation.
-
 ## Key results
 
 | Evaluation | Reported result |
